@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/opencv-3.4.2/include/opencv",
+                "D:/opencv-3.4.2/include/opencv2",
+                "D:/opencv-3.4.2/build/install/include",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/x86_amd64",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin",
+                "C:/Program Files (x86)/Windows Kits/8.1/bin/x86",
+                "C:/Program Files (x86)/MSBuild/14.0/bin",
+                "D:/app/lenovo/product/11.2.0/dbhome_1/BIN",
+                "C:/WINDOWS/system32",
+                "C:/WINDOWS",
+                "C:/WINDOWS/System32/WindowsPowerShell/v1.0",
+                "C:/Program Files/Microsoft SQL Server/130/Tools/Binn",
+                "C:/opencv/build/x64/vc14/bin",
+                "C:/Program Files/OpenSSH/bin",
+                "C:/WINDOWS/System32/OpenSSH",
+                "C:/Users/lenovo/.dnx/bin",
+                "D:/Program Files/CMake/bin",
+                "C:/Program Files/Microsoft VS Code/bin",
+                "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+                "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/atlmfc/include",
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/um",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/shared",
+                "C:/Program Files (x86)/Windows Kits/8.1/Include/winrt"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
