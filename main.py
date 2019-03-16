@@ -8,7 +8,6 @@ from pers_warpper import warp_frame_img
 from datetime import datetime
 
 video = "saved.avi"
-#video = "rtsp://admin:sutpc654321@10.10.150.100:554/h264/ch1/sub/av_stream"
 cap = cv2.VideoCapture(video)
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 out = cv2.VideoWriter('save.avi',fourcc,30.0,(704,576))
