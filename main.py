@@ -37,9 +37,6 @@ M = cv2.getPerspectiveTransform(ORIGINAL_POINTS, DESTINATION_POINTS)
 M_PER_PIXLE = 4.56/260
 
 
-
-
-
 def main_loop():
     # foreground utils
     fgbg = cv2.createBackgroundSubtractorMOG2(history=500, detectShadows=True) # filter model detec gery shadows for removing
