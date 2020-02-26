@@ -11,7 +11,6 @@ def indetector(detector, point):
 def get_dividing_line(p1, p2):
     #dividing line equition:
     k = (p1[1]-p2[1])/(p1[0]-p2[0])
-    #b = y1 - x1*k
     b = p1[1] - p1[0]*k
     return k, b
 
