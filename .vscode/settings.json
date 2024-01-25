@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "cmath": "cpp"
-    },
-    "python.linting.pycodestyleEnabled": false,
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
-}
